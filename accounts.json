@@ -1,0 +1,1 @@
+[{"account_number": "987654321", "balance": 2625.0, "transaction_list": ["2024-06-01: Deposit of 500.0"], "interest_rate": 5.0}, {"account_number": "123456789", "balance": 0, "transaction_list": ["2024-06-01: Deposit of 300.0", "2024-06-01: Withdraw of 1500.0"], "overdraft_limit": 300.0}]
